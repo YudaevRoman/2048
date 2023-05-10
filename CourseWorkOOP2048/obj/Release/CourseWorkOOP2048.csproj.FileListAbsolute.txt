@@ -1,0 +1,10 @@
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\bin\Release\CourseWorkOOP2048.exe.config
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\bin\Release\CourseWorkOOP2048.exe
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\bin\Release\CourseWorkOOP2048.pdb
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\obj\Release\CourseWorkOOP2048.Game2048.resources
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\obj\Release\CourseWorkOOP2048.Properties.Resources.resources
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\obj\Release\CourseWorkOOP2048.csproj.GenerateResource.cache
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\obj\Release\CourseWorkOOP2048.csproj.CoreCompileInputs.cache
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\obj\Release\CourseWorkOOP2048.exe
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\obj\Release\CourseWorkOOP2048.pdb
+C:\Users\Leere\source\repos\CourseWorkOOP2048\CourseWorkOOP2048\obj\Release\CourseWorkOOP2048.csproj.AssemblyReference.cache
